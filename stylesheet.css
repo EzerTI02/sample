@@ -205,7 +205,7 @@ footer {
 
 /* Ketik code Anda dibawah */
 .menu-icon {
-  color: rbga(255,255,255,0);
+  color: white;
   float: right;
   font-size: 25px;
   padding: 21px 0;
