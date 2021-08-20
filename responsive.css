@@ -1,11 +1,4 @@
 /* Untuk Tablet */
-@media all and(min-width:1001px{
-  .menu-icons{
-    color:rgba(255,255,255,0);
-  }
-
-}
-
 
 @media all and (max-width: 1000px) {
   .lesson {
