@@ -205,12 +205,11 @@ footer {
 
 /* Ketik code Anda dibawah */
 .menu-icon {
-  color: white;
+  color: rgba(255,255,255,0);
   float: right;
   font-size: 25px;
   padding: 21px 0;
   display: none;
-  opacity: 0;
   
   
 }
