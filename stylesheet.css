@@ -29,6 +29,14 @@ a {
   margin: 0 auto;
 }
 
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
+
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
@@ -204,14 +212,6 @@ footer {
 }
 
 /* Ketik code Anda dibawah */
-.menu-icon {
-  color: rgba(255,255,255,0);
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display: none;
-  
-  
-}
+
 
 
